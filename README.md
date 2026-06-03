@@ -1,5 +1,6 @@
  # HALO Agent Improvement Loop — Demo
 
+ HALO stands for Hierarchical Agent Loop Optimizer.
  This repository contains a minimal, runnable demonstration of an "agent improvement loop":
  traces → human & model feedback → generated evals → Promptfoo gate → HALO optimization → Codex handoff.
 
